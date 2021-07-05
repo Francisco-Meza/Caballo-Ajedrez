@@ -1,0 +1,13 @@
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\bin\Debug\netcoreapp3.1\Caballo-Ajedrez.exe
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\bin\Debug\netcoreapp3.1\Caballo-Ajedrez.deps.json
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\bin\Debug\netcoreapp3.1\Caballo-Ajedrez.runtimeconfig.json
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\bin\Debug\netcoreapp3.1\Caballo-Ajedrez.runtimeconfig.dev.json
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\bin\Debug\netcoreapp3.1\Caballo-Ajedrez.dll
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\bin\Debug\netcoreapp3.1\Caballo-Ajedrez.pdb
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\obj\Debug\netcoreapp3.1\Caballo-Ajedrez.csprojAssemblyReference.cache
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\obj\Debug\netcoreapp3.1\Caballo-Ajedrez.AssemblyInfoInputs.cache
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\obj\Debug\netcoreapp3.1\Caballo-Ajedrez.AssemblyInfo.cs
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\obj\Debug\netcoreapp3.1\Caballo-Ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\obj\Debug\netcoreapp3.1\Caballo-Ajedrez.dll
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\obj\Debug\netcoreapp3.1\Caballo-Ajedrez.pdb
+C:\Users\balaz\source\repos\Apl_ECUA_1\Caballo-Ajedrez\obj\Debug\netcoreapp3.1\Caballo-Ajedrez.genruntimeconfig.cache
